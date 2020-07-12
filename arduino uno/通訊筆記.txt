@@ -1,0 +1,12 @@
+1. # Active channels set to 1200
+in cmndreader.cpp
+boolean chanCmnd::doCommand( CmndParser* pars )
+
+
+2. -0.06,-0.11,-0.11
+in aArtisan.ino 
+void logger()
+
+3. cmdinterp: ....
+
+
